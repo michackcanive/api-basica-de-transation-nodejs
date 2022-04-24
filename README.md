@@ -24,3 +24,12 @@
 - [✅] Não excluir uma conta não existente
 - [✅] Não deve ser capaz de fazer saque quando o saldo for insuficiente
 - [✅] Não deve fazer saque em uma conta não existente
+
+### Route
+- [🚀] delete_account
+- [🚀] account_actualizacao
+- [🚀] staments/date
+- [🚀] withdraw
+- [🚀] deposito
+- [🚀] staments
+- [🚀] creat_account
