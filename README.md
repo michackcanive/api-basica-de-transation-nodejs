@@ -4,14 +4,14 @@
 
 ### Requisitos 👌
 
-[✅] Deve conseguir criar um conta 
-[✅ ] Deve ser capaz de buscar o extrato bancario 
-[✅] Deve ser capaz de realizar um desposito
-[✅] Dever ser possivel realizar um saque
-[✅] Deve conseguir buscar o extrato bancario de um dada data
-[✅] Deve ser possivel eliminar uma conta
-[✅] Deve ser capaz de obter dados de um determinado Cliente
-[✅] Deve ser capaz de actulizar dados de um determinado Cliente
+- [✅] Deve conseguir criar um conta 
+- [✅] Deve ser capaz de buscar o extrato bancario 
+- [✅] Deve ser capaz de realizar um desposito
+- [✅] Dever ser possivel realizar um saque
+- [✅] Deve conseguir buscar o extrato bancario de um dada data
+- [✅] Deve ser possivel eliminar uma conta
+- [✅] Deve ser capaz de obter dados de um determinado Cliente
+- [✅] Deve ser capaz de actulizar dados de um determinado Cliente
 
 ## Bonus miw
 
