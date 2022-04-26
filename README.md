@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# api-basica-de-transation-nodejs
+
+>>>>>>> 85c4e0c2e2881ac6d4ec22ef1ecd9a4bfe3ddadf
 ## jb- Transferenca
 
 ### Requisitos 👌
@@ -23,3 +28,14 @@
 - [✅] Não deve ser capaz de fazer saque quando o saldo for insuficiente
 - [✅] Não deve fazer saque em uma conta não existente
 
+<<<<<<< HEAD
+=======
+### Route
+- [🚀] delete_account
+- [🚀] account_actualizacao
+- [🚀] staments/date
+- [🚀] withdraw
+- [🚀] deposito
+- [🚀] staments
+- [🚀] creat_account
+>>>>>>> 85c4e0c2e2881ac6d4ec22ef1ecd9a4bfe3ddadf
