@@ -137,7 +137,4 @@ app.delete('/delete_account', verifyIfExistsAccountBi, (req, resp) => {
 })
 
 
-
-
-
 app.listen(3333, () => { console.log(' hostname: localhost:3333 😀', '\n servidor iniciado proximo nivel 🚀') })
